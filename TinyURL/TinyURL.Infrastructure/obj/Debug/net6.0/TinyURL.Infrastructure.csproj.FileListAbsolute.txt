@@ -1,0 +1,15 @@
+C:\root\dev\github\tiny-url\TinyURL\TinyURL.Infrastructure\bin\Debug\net6.0\TinyURL.Infrastructure.deps.json
+C:\root\dev\github\tiny-url\TinyURL\TinyURL.Infrastructure\bin\Debug\net6.0\TinyURL.Infrastructure.dll
+C:\root\dev\github\tiny-url\TinyURL\TinyURL.Infrastructure\bin\Debug\net6.0\TinyURL.Infrastructure.pdb
+C:\root\dev\github\tiny-url\TinyURL\TinyURL.Infrastructure\bin\Debug\net6.0\TinyURL.Core.dll
+C:\root\dev\github\tiny-url\TinyURL\TinyURL.Infrastructure\bin\Debug\net6.0\TinyURL.Core.pdb
+C:\root\dev\github\tiny-url\TinyURL\TinyURL.Infrastructure\obj\Debug\net6.0\TinyURL.Infrastructure.csproj.AssemblyReference.cache
+C:\root\dev\github\tiny-url\TinyURL\TinyURL.Infrastructure\obj\Debug\net6.0\TinyURL.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\root\dev\github\tiny-url\TinyURL\TinyURL.Infrastructure\obj\Debug\net6.0\TinyURL.Infrastructure.AssemblyInfoInputs.cache
+C:\root\dev\github\tiny-url\TinyURL\TinyURL.Infrastructure\obj\Debug\net6.0\TinyURL.Infrastructure.AssemblyInfo.cs
+C:\root\dev\github\tiny-url\TinyURL\TinyURL.Infrastructure\obj\Debug\net6.0\TinyURL.Infrastructure.csproj.CoreCompileInputs.cache
+C:\root\dev\github\tiny-url\TinyURL\TinyURL.Infrastructure\obj\Debug\net6.0\TinyURL.Infrastructure.csproj.CopyComplete
+C:\root\dev\github\tiny-url\TinyURL\TinyURL.Infrastructure\obj\Debug\net6.0\TinyURL.Infrastructure.dll
+C:\root\dev\github\tiny-url\TinyURL\TinyURL.Infrastructure\obj\Debug\net6.0\refint\TinyURL.Infrastructure.dll
+C:\root\dev\github\tiny-url\TinyURL\TinyURL.Infrastructure\obj\Debug\net6.0\TinyURL.Infrastructure.pdb
+C:\root\dev\github\tiny-url\TinyURL\TinyURL.Infrastructure\obj\Debug\net6.0\ref\TinyURL.Infrastructure.dll

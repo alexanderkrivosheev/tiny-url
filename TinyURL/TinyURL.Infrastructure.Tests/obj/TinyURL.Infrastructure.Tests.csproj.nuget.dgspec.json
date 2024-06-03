@@ -1,0 +1,212 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\root\\dev\\github\\tiny-url\\TinyURL\\TinyURL.Infrastructure.Tests\\TinyURL.Infrastructure.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\root\\dev\\github\\tiny-url\\TinyURL\\TinyURL.Application\\TinyURL.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\root\\dev\\github\\tiny-url\\TinyURL\\TinyURL.Application\\TinyURL.Core.csproj",
+        "projectName": "TinyURL.Core",
+        "projectPath": "C:\\root\\dev\\github\\tiny-url\\TinyURL\\TinyURL.Application\\TinyURL.Core.csproj",
+        "packagesPath": "C:\\Users\\Alexander\\.nuget\\packages\\",
+        "outputPath": "C:\\root\\dev\\github\\tiny-url\\TinyURL\\TinyURL.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alexander\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.twicepricegroup.com/api/Package/fdc0f390-ac03-4981-9208-a4241196ea2c-1aa7e63b-7a53-4e6c-8b47-99bcc56a1a1b-ff706b44-7248-45d9-8de5-736437532bbd/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\root\\dev\\github\\tiny-url\\TinyURL\\TinyURL.Infrastructure.Tests\\TinyURL.Infrastructure.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\root\\dev\\github\\tiny-url\\TinyURL\\TinyURL.Infrastructure.Tests\\TinyURL.Infrastructure.Tests.csproj",
+        "projectName": "TinyURL.Infrastructure.Tests",
+        "projectPath": "C:\\root\\dev\\github\\tiny-url\\TinyURL\\TinyURL.Infrastructure.Tests\\TinyURL.Infrastructure.Tests.csproj",
+        "packagesPath": "C:\\Users\\Alexander\\.nuget\\packages\\",
+        "outputPath": "C:\\root\\dev\\github\\tiny-url\\TinyURL\\TinyURL.Infrastructure.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alexander\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.twicepricegroup.com/api/Package/fdc0f390-ac03-4981-9208-a4241196ea2c-1aa7e63b-7a53-4e6c-8b47-99bcc56a1a1b-ff706b44-7248-45d9-8de5-736437532bbd/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\root\\dev\\github\\tiny-url\\TinyURL\\TinyURL.Infrastructure\\TinyURL.Infrastructure.csproj": {
+                "projectPath": "C:\\root\\dev\\github\\tiny-url\\TinyURL\\TinyURL.Infrastructure\\TinyURL.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.4.3, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.4.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.10.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.8.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\root\\dev\\github\\tiny-url\\TinyURL\\TinyURL.Infrastructure\\TinyURL.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\root\\dev\\github\\tiny-url\\TinyURL\\TinyURL.Infrastructure\\TinyURL.Infrastructure.csproj",
+        "projectName": "TinyURL.Infrastructure",
+        "projectPath": "C:\\root\\dev\\github\\tiny-url\\TinyURL\\TinyURL.Infrastructure\\TinyURL.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Alexander\\.nuget\\packages\\",
+        "outputPath": "C:\\root\\dev\\github\\tiny-url\\TinyURL\\TinyURL.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alexander\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.twicepricegroup.com/api/Package/fdc0f390-ac03-4981-9208-a4241196ea2c-1aa7e63b-7a53-4e6c-8b47-99bcc56a1a1b-ff706b44-7248-45d9-8de5-736437532bbd/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\root\\dev\\github\\tiny-url\\TinyURL\\TinyURL.Application\\TinyURL.Core.csproj": {
+                "projectPath": "C:\\root\\dev\\github\\tiny-url\\TinyURL\\TinyURL.Application\\TinyURL.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TinyURL.Infrastructure/1.0.0": {
+        "dependencies": {
+          "TinyURL.Core": "1.0.0"
+        },
+        "runtime": {
+          "TinyURL.Infrastructure.dll": {}
+        }
+      },
+      "TinyURL.Core/1.0.0": {
+        "runtime": {
+          "TinyURL.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TinyURL.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TinyURL.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

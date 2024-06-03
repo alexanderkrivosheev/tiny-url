@@ -1,0 +1,11 @@
+C:\root\dev\github\tiny-url\TinyURL\TinyURL.Application\bin\Debug\net6.0\TinyURL.Core.deps.json
+C:\root\dev\github\tiny-url\TinyURL\TinyURL.Application\bin\Debug\net6.0\TinyURL.Core.dll
+C:\root\dev\github\tiny-url\TinyURL\TinyURL.Application\bin\Debug\net6.0\TinyURL.Core.pdb
+C:\root\dev\github\tiny-url\TinyURL\TinyURL.Application\obj\Debug\net6.0\TinyURL.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\root\dev\github\tiny-url\TinyURL\TinyURL.Application\obj\Debug\net6.0\TinyURL.Core.AssemblyInfoInputs.cache
+C:\root\dev\github\tiny-url\TinyURL\TinyURL.Application\obj\Debug\net6.0\TinyURL.Core.AssemblyInfo.cs
+C:\root\dev\github\tiny-url\TinyURL\TinyURL.Application\obj\Debug\net6.0\TinyURL.Core.csproj.CoreCompileInputs.cache
+C:\root\dev\github\tiny-url\TinyURL\TinyURL.Application\obj\Debug\net6.0\TinyURL.Core.dll
+C:\root\dev\github\tiny-url\TinyURL\TinyURL.Application\obj\Debug\net6.0\refint\TinyURL.Core.dll
+C:\root\dev\github\tiny-url\TinyURL\TinyURL.Application\obj\Debug\net6.0\TinyURL.Core.pdb
+C:\root\dev\github\tiny-url\TinyURL\TinyURL.Application\obj\Debug\net6.0\ref\TinyURL.Core.dll
